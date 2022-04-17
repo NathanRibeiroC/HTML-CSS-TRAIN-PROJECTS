@@ -14,3 +14,8 @@
   <summary> Birthday Card </summary>
   <img src="https://github.com/NathanRibeiroC/HTML-CSS-TRAIN-PROJECTS/blob/master/gifs/respBirthCard.gif"/>
 </details>  
+
+<details>
+  <summary> Navigation Menu Indicator </summary>
+  <img src="https://github.com/NathanRibeiroC/HTML-CSS-TRAIN-PROJECTS/blob/master/gifs/navMenuInd.gif"/>
+</details>  
