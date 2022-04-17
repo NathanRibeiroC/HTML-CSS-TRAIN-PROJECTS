@@ -2,7 +2,7 @@
 <!-- GIFS MUST BE RECORDED ON 1350X600px -->
 <details>
   <summary> Calculator </summary>
-  <img src="https://github.com/NathanRibeiroC/HTML-CSS-TRAIN-PROJECTS/blob/master/gifs/calculator.gif"/>
+  <img src="https://github.com/NathanRibeiroC/HTML-CSS-TRAIN-PROJECTS/blob/master/gifs/calculator_.gif"/>
 </details>
 
 <details>
