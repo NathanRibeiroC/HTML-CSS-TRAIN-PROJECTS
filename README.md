@@ -7,6 +7,7 @@
 
 <details>
   <summary> Wheater App </summary>
+  <img src="./gif/wheaterApp.gif"/>
 </details>  
 
 <details>
