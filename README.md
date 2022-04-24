@@ -19,3 +19,8 @@
   <summary> Navigation Menu Indicator </summary>
   <img src="https://github.com/NathanRibeiroC/HTML-CSS-TRAIN-PROJECTS/blob/master/gifs/navMenuInd.gif"/>
 </details>  
+
+<details>
+  <summary> Popup </summary>
+  <img src="https://github.com/NathanRibeiroC/HTML-CSS-TRAIN-PROJECTS/blob/master/gifs/popup.gif"/>
+</details>  
